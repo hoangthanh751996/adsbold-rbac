@@ -1,0 +1,11 @@
+{
+  "name": "adsbold-rbac",
+  "version": "1.0.1",
+  "description": "## Tech stack * MongoDB * Mocha * Express * Facebook Graph API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
